@@ -42,7 +42,7 @@ An AI-powered web application that provides preliminary medical condition assess
 
 ## 📸 Screenshot
 
-![AI Diagnosis App Screenshot](./diagnosis.png)
+![AI Diagnosis App Screenshot](./diagnosis.jpg)
 
 ---
 
